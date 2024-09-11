@@ -20,8 +20,10 @@ while(true) {
 } 
    */
 
-
+/*
 //Example: Infinite loop using while loop
 while(true) { 
    console.log(“This is an endless loop”) 
 }
+   */
+  
